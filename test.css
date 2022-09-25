@@ -1,0 +1,87 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    background-color: whitesmoke;
+    display: grid;
+    grid-template-columns: 30% 7.5% 7.5% 7.5% 7.5% 7.5% 7.5% 7.5% 7.5%;
+    padding: 10px;
+    
+}
+#logo{
+    color: green;
+    margin-left: 10px;
+    
+}
+h6 a{
+    text-decoration: none;
+    color: black;
+}
+.start{
+    padding: 15px;
+    border: 1px solid green; 
+    color: green; 
+    
+}
+#contact{
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    
+}
+.ss{
+    display: flex;
+    justify-content: center;
+}
+.location{
+    display: flex;
+}
+svg{
+    height: 40px;
+}
+.main{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    
+    gap: 20px;
+}
+#ssd{
+    border-top: 5px solid green;
+    border-bottom: 5px solid green;
+   border-left: 2px solid green;
+   border-right: 2px solid green;
+   padding: 20px; 
+   box-shadow: 0px 0px 0px 0.1px black ;
+    
+    
+
+}
+.ndsection{
+   border-top: 5px solid green;
+   border-bottom: 5px solid green;
+  border-left: 2px solid green;
+  border-right: 2px solid green;
+  padding: 20px; 
+  box-shadow: 0px 0px 0px 0.1px black ;  
+}
+#name{
+    margin: 20px;
+}
+#email{
+    margin: 20px;
+}
+.game{
+    margin: 20px;
+}
+.textarea{
+    display: flex;
+    justify-content: center;
+}
+button{
+    border:3px solid green;
+   background-color: yellowgreen;
+   color: white;
+   margin-left: 300px;
+   
+}
